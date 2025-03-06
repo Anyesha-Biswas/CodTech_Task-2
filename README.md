@@ -15,3 +15,4 @@ This project demonstrates the implementation of a **CI/CD pipeline** using **Git
 - **Web Hosting** (GitHub Pages, Netlify, or any hosting service)
 
 # 📂 Project Structure
+/CodTech_Task-2 │── .github/workflows/deploy.yml # CI/CD pipeline configuration (GitHub Actions) │── index.html # Webpage file │── README.md # Project documentation
